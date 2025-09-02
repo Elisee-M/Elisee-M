@@ -13,7 +13,8 @@
 
 ### 📊 Profile Visits
 
-![Hits](https://hits.jwenjian.cn/?view&url=https://github.com/Elisee-M&style=flat-square&label=PROFILE%20VIEWS)
+![Profile Views](https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/get/github/Elisee-M&label=Profile%20Views&query=value&style=for-the-badge&color=blue)
+
 
 
 
