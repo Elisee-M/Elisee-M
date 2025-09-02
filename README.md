@@ -13,7 +13,8 @@
 
 ### 📊 Profile Visits
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/get/github/Elisee-M&label=Profile%20Views&query=value&style=for-the-badge&color=blue)
+[![Profile Views](https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/get/github/Elisee-M&label=Profile%20Views&query=value&style=for-the-badge&color=blue)](https://api.countapi.xyz/create?namespace=github&key=Elisee-M&value=0
+)
 
 
 
