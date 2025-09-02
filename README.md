@@ -13,7 +13,8 @@
 
 ### 📊 Profile Visits
 
-![Profile views](https://komarev.com/ghpvc/?username=Elisee-M&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Elisee-M&title=Profile%20Views&title_bg=151515&count_bg=0D47A1&icon=github&edge_flat=true)](https://hits.seeyoufarm.com)
+
 
 
 
