@@ -13,7 +13,8 @@
 
 ### 📊 Profile Visits
 
-![Visitor Counter](https://profile-counter.glitch.me/Elisee-M/count.svg)
+![Hits](https://hits.jwenjian.cn/?view&url=https://github.com/Elisee-M&style=flat-square&label=PROFILE%20VIEWS)
+
 
 
 ### 🏆 GitHub Trophies
