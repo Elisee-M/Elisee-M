@@ -13,12 +13,7 @@
 
 ### 📊 Profile Visits
 
-![Visitor Count](https://simplecounter.elmehdi.dev/Elisee-M)
-
-
-
-
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=Elisee-M&theme=onedark&column=7)
 
 
 
