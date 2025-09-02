@@ -13,7 +13,8 @@
 
 ### 📊 Profile Visits
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Elisee-M.Elisee-M&left_color=black&right_color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=Elisee-M&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6)
+
 
 
 
