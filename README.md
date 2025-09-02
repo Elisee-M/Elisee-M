@@ -13,7 +13,8 @@
 
 ### 📊 Profile Visits
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Elisee-M&title=Profile%20Views&title_bg=151515&count_bg=0D47A1&icon=github&edge_flat=true)](https://hits.seeyoufarm.com)
+![Visitor Count](https://simplecounter.elmehdi.dev/Elisee-M)
+
 
 
 
