@@ -13,7 +13,8 @@
 
 ### 📊 Profile Visits
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Elisee-M&theme=onedark&column=7)
+![Profile views](https://komarev.com/ghpvc/?username=Elisee-M&label=VISITORS&color=0E1117&style=for-the-badge)
+
 
 
 
