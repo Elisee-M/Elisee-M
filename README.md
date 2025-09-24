@@ -4,7 +4,8 @@
 - 👀 I’m obsessed with IoT, embedded magic, and hacking hardware to life  
 - 🌱 I’m currently diving deep into microcontrollers, sensors, and cloud-connected projects  
 - 💞️ I’m looking to collaborate on wild IoT adventures and creative tech experiments  
-- 📫 How to reach me: mugiranezaelisee0@gmail.com  
+- 📫 How to reach me: mugiranezaelisee0@gmail.com
+- 💼 portfoli: eliseemugiraneza.netlify.app
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I once made an LED blink from across the room... wirelessly 😎  
 
