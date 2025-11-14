@@ -78,6 +78,7 @@
 * Portfolio: **eliseemugiraneza.netlify.app**
 * Instagram: [@_elisee__0](https://www.instagram.com/_elisee__0/)
 * LinkedIn: [Elisee Mugiraneza](https://www.linkedin.com/in/elisee-mugiraneza-b66625362/)
+* WhatsApp: **+250798809812**
 
 ---
 
