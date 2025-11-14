@@ -1,88 +1,80 @@
-# 🌌 Elisee — The IoT Architect
+# ⚡😎 Elisee Going FULL BRRRR Mode 😎⚡
+
+<!-- Animated Header -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=2800&pause=600&color=8CF7FF&center=true&vCenter=true&width=900&lines=Designing+Systems.;Connecting+Worlds.;Mastering+Embedded+Logic.;Building+Future+Tech.;Creating+Silent+Power." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=900&lines=Elisee+M+is+Online+%F0%9F%94%8D;Hardware+Hacker+%F0%9F%9B%A0%EF%B8%8F+%2B+IoT+Beast+%F0%9F%AA%84;Breaking+Sensors+%26+Clouds+Daily+%F0%9F%92%A5;ESP8266+%2F+ESP32+Wizardry+Activated+%F0%9F%94%A5;Firebase+Dashboard+Mastermind+%F0%9F%92%BB" />
 </div>
 
 ---
 
-## 🧭 Identity — Calm, Clean & Powerful
+## 🚀 Who Am I (BRRRR Edition)
 
-* I turn everyday electronics into **smart, connected systems**.
-* I love **simple designs** with **complex intelligence** behind them.
-* I build solutions that run **quietly**, **efficiently**, and **precisely**.
-* I don’t just tinker — I **architect digital ecosystems**.
+* 🔥 I turn microcontrollers into **smart beasts**.
+* 🌩️ I mix sensors + cloud like a **mad scientist**.
+* 🎛️ I design UIs smoother than a **freshly cleaned PCB**.
+* 🧨 I break stuff on purpose... then fix it like nothing happened.
+* ⚡ Fun fact: I once made an LED blink from the next ROOM. Wireless. No regrets.
 
 ---
 
-## 🛠 Technology I Shape
+## 🛠 Tech Arsenal (NEON MODE)
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=arduino,cpp,py,js,html,css,firebase,linux,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=arduino,js,html,css,cpp,firebase,github,react,vscode,py,linux&theme=light" />
 </div>
 
 ---
 
-## 📡 What I'm Building
+## 🎯 Current Brrrr Projects
 
-### **1. Teacher Attendance System**
-
-Stable. Automated. Cloud-aware.
-
-### **2. AI Pest Identifier (ESP32-CAM)**
-
-Edge AI meets agriculture.
-
-### **3. WiFi RGB Mood Lamp**
-
-Light controlled with millisecond accuracy.
-
-### **4. DHT11 Cloud Monitor**
-
-Sensor data done elegantly.
+* 🕘 **Teacher Attendance System** – real-time, cloud-synced, too smooth.
+* 🤖 **AI Pest Detector (ESP32-CAM)** – pests fear me.
+* 🌈 **WiFi RGB Mood Lamp** – real-time sliders, full vibe control.
+* 🌡️ **DHT11 Cloud Monitor** – weather reports from your living room.
 
 ---
 
-## 📈 Clean GitHub Overview
+## 💎 GitHub Flex Zone
 
 <div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Elisee-M&show_icons=true&theme=calm" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elisee-M&layout=compact&theme=calm" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elisee-M&show_icons=true&theme=neon" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elisee-M&layout=compact&theme=neon" />
 </div>
 
 ---
 
-## 🔥 Activity Flow
+## 🔥 BRRRR Contribution Flames
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Elisee-M&theme=calm" />
+  <img src="https://streak-stats.demolab.com?user=Elisee-M&theme=neon-palenight" />
 </div>
 
 ---
 
-## 🎖 Achievements
+## 🏆 Trophies (Because Why Not?)
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Elisee-M&theme=flat&margin-w=10&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Elisee-M&theme=dracula&no-frame=true&margin-w=15" />
 </div>
 
 ---
 
-## 👁 Visitor Count
+## 📊 Visitor Counter
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Elisee-M&label=Visitors&color=118ab2&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Elisee-M&label=BRRR+VISITORS&color=blueviolet&style=for-the-badge" />
 </div>
 
 ---
 
-## 📫 Reach Me
+## 📫 Contact Me
 
-* Email: **[mugiranezaelisee0@gmail.com](mailto:mugiranezaelisee0@gmail.com)**
-* Portfolio: **eliseemugiraneza.netlify.app**
+* 📧 Email: **[mugiranezaelisee0@gmail.com](mailto:mugiranezaelisee0@gmail.com)**
+* 🌐 Portfolio: **eliseemugiraneza.netlify.app**
 
 ---
 
 <div align="center">
-  <h2>"Simple on the outside. Engineering on the inside."</h2>
+  <h2>⚡ "If it blinks, connects, or breaks — I build it." ⚡</h2>
 </div>
