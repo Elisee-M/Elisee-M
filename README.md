@@ -10,12 +10,12 @@
 
 ## 🚀 About Me
 
-* I work with microcontrollers, Raspberry Pis, and embedded systems.
-* I integrate sensors with cloud computing solutions.
-* I explore machine learning, AI, and hobby kernel development.
-* I design PCBs and 3D CAD models for my projects.
-* I create solutions that run efficiently, reliably, and elegantly.
-* Fun fact: LED blinking from another room, wirelessly.
+* 🖥️ I work with microcontrollers, Raspberry Pis, and embedded systems.
+* ☁️ I integrate sensors with cloud computing solutions.
+* 🤖 I explore machine learning, AI, and hobby kernel development.
+* 📐 I design PCBs and 3D CAD models for my projects.
+* ⚡ I create solutions that run efficiently, reliably, and elegantly.
+* 💡 Fun fact: LED blinking from another room, wirelessly.
 
 ---
 
@@ -29,13 +29,13 @@
 
 ## 🎯 Current Projects
 
-* **Teacher Attendance System** – automated, cloud-synced.
-* **AI Pest Detector (ESP32-CAM)** – real-time edge AI.
-* **WiFi RGB Mood Lamp** – precise, remote-controlled lighting.
-* **DHT11 Cloud Monitor** – efficient sensor data logging.
-* **ML Raspberry Pi Projects** – integrating AI with sensors.
-* **PCB & CAD Designs** – custom boards and 3D models.
-* **Hobby Kernel Experiments** – tinkering with Linux internals.
+* 🏫 **Teacher Attendance System** – automated, cloud-synced.
+* 🐞 **AI Pest Detector (ESP32-CAM)** – real-time edge AI.
+* 🌈 **WiFi RGB Mood Lamp** – precise, remote-controlled lighting.
+* 🌡️ **DHT11 Cloud Monitor** – efficient sensor data logging.
+* 🤖 **ML Raspberry Pi Projects** – integrating AI with sensors.
+* 🛠️ **PCB & CAD Designs** – custom boards and 3D models.
+* 🖤 **Hobby Kernel Experiments** – tinkering with Linux internals.
 
 ---
 
@@ -74,11 +74,11 @@
 
 ## 📫 Contact
 
-* Email: **[mugiranezaelisee0@gmail.com](mailto:mugiranezaelisee0@gmail.com)**
-* Portfolio: **eliseemugiraneza.netlify.app**
-* Instagram: [@_elisee__0](https://www.instagram.com/_elisee__0/)
-* LinkedIn: [Elisee Mugiraneza](https://www.linkedin.com/in/elisee-mugiraneza-b66625362/)
-* WhatsApp: **+250798809812**
+* ✉️ Email: **[mugiranezaelisee0@gmail.com](mailto:mugiranezaelisee0@gmail.com)**
+* 🌐 Portfolio: **eliseemugiraneza.netlify.app**
+* 📸 Instagram: [@_elisee__0](https://www.instagram.com/_elisee__0/)
+* 💼 LinkedIn: [Elisee Mugiraneza](https://www.linkedin.com/in/elisee-mugiraneza-b66625362/)
+* 📱 WhatsApp: **+250798809812**
 
 ---
 
