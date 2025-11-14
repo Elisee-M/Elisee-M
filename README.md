@@ -18,10 +18,10 @@
 
 ---
 
-## 🛠 Tech Arsenal (NEON MODE)
+## 🧩 Systems & Tools I Engineer
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=arduino,js,html,css,cpp,firebase,github,react,vscode,py,linux&theme=light" />
+<img src="https://skillicons.dev/icons?i=arduino,cpp,py,firebase,react,js,html,css,linux,github,vscode&theme=dark" />
 </div>
 
 ---
@@ -44,10 +44,10 @@
 
 ---
 
-## 🔥 BRRRR Contribution Flames
+## 🌙 Contribution Pulse (Calm Mode)
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Elisee-M&theme=neon-palenight" />
+  <img src="https://streak-stats.demolab.com?user=Elisee-M&theme=moonlight" />
 </div>
 
 ---
