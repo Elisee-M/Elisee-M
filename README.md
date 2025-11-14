@@ -3,7 +3,7 @@
 <!-- Animated Auto-Scroll Header with all knowledge -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=5000&pause=300&color=00FF00&center=true&vCenter=true&width=900&lines=IoT+%7C+Embedded+Systems+%7C+Microcontrollers;Machine+Learning+%7C+Raspberry+Pi;PCB+Design+%7C+CAD+Design;Cloud+Computing+%7C+Dashboards;Hobby+Kernel+Development;Python+%7C+C%2B%2B+%7C+JS+%7C+HTML+%7C+CSS;ESP32+%7C+ESP8266;Git+%7C+Github;Linux+%7C+VScode+%7C+Firebase" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=5000&pause=300&color=00FF00&center=true&vCenter=true&width=900&lines=IoT+%7C+Embedded+Systems+%7C+Microcontrollers;Machine+Learning+%7C+Raspberry+Pi;PCB+Design+%7C+CAD+Design;Cloud+Computing+%7C+Dashboards;Hobby+Kernel+Development;Python+%7C+C%2B%2B+%7C+C+%7C+Assembly+%7C+JS+%7C+HTML+%7C+CSS;ESP32+%7C+ESP8266;Git+%7C+Github+%7C+Arduino+IDE;Linux+%7C+VScode+%7C+Firebase" />
 </div>
 
 ---
@@ -22,7 +22,7 @@
 ## 🖧 Tools & Technologies
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=arduino,cpp,py,firebase,react,js,html,css,linux,github,vscode,raspberrypi,autocad&theme=dark" />
+<img src="https://skillicons.dev/icons?i=arduino,cpp,c,asm,py,firebase,react,js,html,css,linux,github,vscode,raspberrypi,autocad&theme=dark" />
 </div>
 
 ---
