@@ -1,24 +1,24 @@
-# 🖥️💀 Elisee — Hacker Mode Activated 💀🖥️
+# Elisee — IoT & Embedded Systems
 
-<!-- Terminal-style Animated Header -->
+<!-- Animated Header -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=900&lines=[root@Elisee]$+System+Online;[root@Elisee]$+Deploying+IoT+Scripts;[root@Elisee]$+ESP32+Modules+Initialized;[root@Elisee]$+Cloud+Dashboards+Active;[root@Elisee]$+Sensors+Streaming+Data" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=900&lines=System+Online;Deploying+IoT+Scripts;ESP32+Modules+Initialized;Cloud+Dashboards+Active;Sensors+Streaming+Data" />
 </div>
 
 ---
 
-## 🚀 Hacker Identity
+## 🚀 About Me
 
-* 🖥️ I manipulate microcontrollers like code in a terminal.
-* 🌩️ Cloud + Sensors = my playground.
-* 🧪 I break stuff in a controlled test environment.
-* 💾 Silent, precise, and always logging data.
-* ⚡ Fun: LED blinking from another room, logged and monitored.
+* I work with microcontrollers and embedded systems.
+* I integrate sensors with cloud services.
+* I create solutions that run efficiently and reliably.
+* I enjoy building and testing real-world tech projects.
+* Fun fact: LED blinking from another room, wirelessly.
 
 ---
 
-## 🖧 Tools in My Hacker Lab
+## 🖧 Tools & Technologies
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=arduino,cpp,py,firebase,react,js,html,css,linux,github,vscode&theme=dark" />
@@ -26,16 +26,16 @@
 
 ---
 
-## 🎯 Current Hack Projects
+## 🎯 Current Projects
 
-* 🕘 **Teacher Attendance System** – automated, cloud-synced, terminal-ready.
-* 🤖 **AI Pest Detector (ESP32-CAM)** – edge AI scanning.
-* 🌈 **WiFi RGB Mood Lamp** – realtime terminal control.
-* 🌡️ **DHT11 Cloud Monitor** – logging every move.
+* **Teacher Attendance System** – automated, cloud-synced.
+* **AI Pest Detector (ESP32-CAM)** – real-time edge AI.
+* **WiFi RGB Mood Lamp** – precise, remote-controlled lighting.
+* **DHT11 Cloud Monitor** – efficient sensor data logging.
 
 ---
 
-## 💎 Hacker Git Stats
+## 💎 GitHub Stats
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elisee-M&show_icons=true&theme=dark&hide_border=true" />
@@ -44,7 +44,7 @@
 
 ---
 
-## 🌌 Contribution Matrix
+## 🌌 Contributions
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Elisee-M&theme=matrix" />
@@ -52,7 +52,7 @@
 
 ---
 
-## 🏆 Hacker Achievements
+## 🏆 Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Elisee-M&theme=matrix&no-frame=true&margin-w=15" />
@@ -63,18 +63,18 @@
 ## 📊 Visitor Counter
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Elisee-M&label=Hacker+Visitors&color=00FF00&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Elisee-M&label=Visitors&color=00FF00&style=flat-square" />
 </div>
 
 ---
 
-## 📫 Contact Terminal
+## 📫 Contact
 
-* 📧 Email: **[mugiranezaelisee0@gmail.com](mailto:mugiranezaelisee0@gmail.com)**
-* 🌐 Portfolio: **eliseemugiraneza.netlify.app**
+* Email: **[mugiranezaelisee0@gmail.com](mailto:mugiranezaelisee0@gmail.com)**
+* Portfolio: **eliseemugiraneza.netlify.app**
 
 ---
 
 <div align="center">
-  <h2>💀 "If it blinks, connects, or breaks — I hack it." 💀</h2>
+  <h2>"If it blinks, connects, or breaks — I build it."</h2>
 </div>
