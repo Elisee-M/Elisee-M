@@ -1,24 +1,24 @@
-# ⚡😎 Elisee Going FULL BRRRR Mode 😎⚡
+# 🖥️💀 Elisee — Hacker Mode Activated 💀🖥️
 
-<!-- Animated Header -->
+<!-- Terminal-style Animated Header -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=900&lines=Elisee+M+is+Online+%F0%9F%94%8D;Hardware+Hacker+%F0%9F%9B%A0%EF%B8%8F+%2B+IoT+Beast+%F0%9F%AA%84;Breaking+Sensors+%26+Clouds+Daily+%F0%9F%92%A5;ESP8266+%2F+ESP32+Wizardry+Activated+%F0%9F%94%A5;Firebase+Dashboard+Mastermind+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=900&lines=[root@Elisee]$+System+Online;[root@Elisee]$+Deploying+IoT+Scripts;[root@Elisee]$+ESP32+Modules+Initialized;[root@Elisee]$+Cloud+Dashboards+Active;[root@Elisee]$+Sensors+Streaming+Data" />
 </div>
 
 ---
 
-## 🚀 Who Am I (BRRRR Edition)
+## 🚀 Hacker Identity
 
-* 🔥 I turn microcontrollers into **smart beasts**.
-* 🌩️ I mix sensors + cloud like a **mad scientist**.
-* 🎛️ I design UIs smoother than a **freshly cleaned PCB**.
-* 🧨 I break stuff on purpose... then fix it like nothing happened.
-* ⚡ Fun fact: I once made an LED blink from the next ROOM. Wireless. No regrets.
+* 🖥️ I manipulate microcontrollers like code in a terminal.
+* 🌩️ Cloud + Sensors = my playground.
+* 🧪 I break stuff in a controlled test environment.
+* 💾 Silent, precise, and always logging data.
+* ⚡ Fun: LED blinking from another room, logged and monitored.
 
 ---
 
-## 🧩 Systems & Tools I Engineer
+## 🖧 Tools in My Hacker Lab
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=arduino,cpp,py,firebase,react,js,html,css,linux,github,vscode&theme=dark" />
@@ -26,36 +26,36 @@
 
 ---
 
-## 🎯 Current Brrrr Projects
+## 🎯 Current Hack Projects
 
-* 🕘 **Teacher Attendance System** – real-time, cloud-synced, too smooth.
-* 🤖 **AI Pest Detector (ESP32-CAM)** – pests fear me.
-* 🌈 **WiFi RGB Mood Lamp** – real-time sliders, full vibe control.
-* 🌡️ **DHT11 Cloud Monitor** – weather reports from your living room.
+* 🕘 **Teacher Attendance System** – automated, cloud-synced, terminal-ready.
+* 🤖 **AI Pest Detector (ESP32-CAM)** – edge AI scanning.
+* 🌈 **WiFi RGB Mood Lamp** – realtime terminal control.
+* 🌡️ **DHT11 Cloud Monitor** – logging every move.
 
 ---
 
-## 💎 GitHub Flex Zone
+## 💎 Hacker Git Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elisee-M&show_icons=true&theme=neon" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elisee-M&layout=compact&theme=neon" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elisee-M&show_icons=true&theme=dark&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elisee-M&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 ---
 
-## 🌙 Contribution Pulse (Calm Mode)
+## 🌌 Contribution Matrix
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Elisee-M&theme=moonlight" />
+  <img src="https://streak-stats.demolab.com?user=Elisee-M&theme=matrix" />
 </div>
 
 ---
 
-## 🏆 Trophies (Because Why Not?)
+## 🏆 Hacker Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Elisee-M&theme=dracula&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Elisee-M&theme=matrix&no-frame=true&margin-w=15" />
 </div>
 
 ---
@@ -63,12 +63,12 @@
 ## 📊 Visitor Counter
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Elisee-M&label=BRRR+VISITORS&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Elisee-M&label=Hacker+Visitors&color=00FF00&style=flat-square" />
 </div>
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact Terminal
 
 * 📧 Email: **[mugiranezaelisee0@gmail.com](mailto:mugiranezaelisee0@gmail.com)**
 * 🌐 Portfolio: **eliseemugiraneza.netlify.app**
@@ -76,5 +76,5 @@
 ---
 
 <div align="center">
-  <h2>⚡ "If it blinks, connects, or breaks — I build it." ⚡</h2>
+  <h2>💀 "If it blinks, connects, or breaks — I hack it." 💀</h2>
 </div>
