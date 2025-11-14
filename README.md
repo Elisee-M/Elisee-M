@@ -1,19 +1,20 @@
-[# Elisee — IoT & Embedded Systems
+# Elisee — Full Stack IoT, ML & Embedded Systems Brrrr Mode
 
-<!-- Animated Header -->
+<!-- Animated Auto-Scroll Header with all knowledge -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=900&lines=System+Online;Deploying+IoT+Scripts;ESP32+Modules+Initialized;Cloud+Dashboards+Active;Sensors+Streaming+Data" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=5000&pause=300&color=00FF00&center=true&vCenter=true&width=900&lines=IoT+%7C+Embedded+Systems+%7C+Microcontrollers;Machine+Learning+%7C+Raspberry+Pi;PCB+Design+%7C+CAD+Design;Cloud+Computing+%7C+Dashboards;Hobby+Kernel+Development;Python+%7C+C%2B%2B+%7C+JS+%7C+HTML+%7C+CSS;ESP32+%7C+ESP8266;Git+%7C+Github;Linux+%7C+VScode+%7C+Firebase" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-* I work with microcontrollers and embedded systems.
-* I integrate sensors with cloud services.
-* I create solutions that run efficiently and reliably.
-* I enjoy building and testing real-world tech projects.
+* I work with microcontrollers, Raspberry Pis, and embedded systems.
+* I integrate sensors with cloud computing solutions.
+* I explore machine learning, AI, and hobby kernel development.
+* I design PCBs and 3D CAD models for my projects.
+* I create solutions that run efficiently, reliably, and elegantly.
 * Fun fact: LED blinking from another room, wirelessly.
 
 ---
@@ -21,7 +22,7 @@
 ## 🖧 Tools & Technologies
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=arduino,cpp,py,firebase,react,js,html,css,linux,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=arduino,cpp,py,firebase,react,js,html,css,linux,github,vscode,raspberrypi,autocad&theme=dark" />
 </div>
 
 ---
@@ -32,6 +33,9 @@
 * **AI Pest Detector (ESP32-CAM)** – real-time edge AI.
 * **WiFi RGB Mood Lamp** – precise, remote-controlled lighting.
 * **DHT11 Cloud Monitor** – efficient sensor data logging.
+* **ML Raspberry Pi Projects** – integrating AI with sensors.
+* **PCB & CAD Designs** – custom boards and 3D models.
+* **Hobby Kernel Experiments** – tinkering with Linux internals.
 
 ---
 
@@ -72,10 +76,11 @@
 
 * Email: **[mugiranezaelisee0@gmail.com](mailto:mugiranezaelisee0@gmail.com)**
 * Portfolio: **eliseemugiraneza.netlify.app**
+* Instagram: [@_elisee__0](https://www.instagram.com/_elisee__0/)
+* LinkedIn: [Elisee Mugiraneza](https://www.linkedin.com/in/elisee-mugiraneza-b66625362/)
 
 ---
 
 <div align="center">
-  <h2>"If it blinks, connects, or breaks — I build it."</h2>
+  <h2>"If it blinks, connects, or computes — I build it."</h2>
 </div>
-](https://www.instagram.com/_elisee__0/)
