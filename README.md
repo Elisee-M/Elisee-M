@@ -10,12 +10,8 @@
 
 ## 🚀 About Me
 
-* 🖥️ I work with microcontrollers, Raspberry Pis, and embedded systems.  
-* ☁️ I integrate sensors with cloud computing solutions.  
-* 🤖 I explore machine learning, AI, and hobby kernel development.  
-* 📐 I design PCBs and 3D CAD models for my projects.  
-* ⚡ I create solutions that run efficiently, reliably, and elegantly.  
-* 💡 Fun fact: I can blink LEDs from another room, wirelessly.
+🖥️☁️🤖📐⚡💡 I tinker with microcontrollers, cloud IoT, AI, PCBs, 3D CAD, and blink LEDs from another room—just for fun.
+---
 
 
 ## 🖧 Tools & Technologies
