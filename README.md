@@ -1,4 +1,4 @@
-# Elisee — Full Stack IoT, ML & Embedded Systems Brrrr Mode
+# Elisee — Full Stack IoT, ML & Embedded Systems 
 
 <!-- Animated Auto-Scroll Header with all knowledge -->
 
