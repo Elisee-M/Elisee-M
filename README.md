@@ -10,8 +10,8 @@
 
 ## 🚀 About Me
 
-🖥️☁️🤖📐⚡💡 I tinker with microcontrollers, cloud IoT, AI, PCBs, 3D CAD, and blink LEDs from another room—just for fun.
----
+🖥️ I build microcontrollers and Raspberry Pi projects, ☁️ connect them to cloud IoT, 🤖 experiment with AI and ML, 📐 design PCBs and 3D CAD models, ⚡ make systems efficient and reliable, and 💡 even blink LEDs wirelessly from another room.
+
 
 
 ## 🖧 Tools & Technologies
