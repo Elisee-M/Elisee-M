@@ -37,13 +37,6 @@
 * 🛠️ **PCB & CAD Designs** – custom boards and 3D models.
 * 🖤 **Hobby Kernel Experiments** – tinkering with Linux internals.
 
-## 📊 Visitor Counter
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Elisee-M&label=Visitors&color=00FF00&style=flat-square" />
-</div>
-
----
 
 ## 📫 Contact
 
