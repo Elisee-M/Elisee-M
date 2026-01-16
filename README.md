@@ -10,8 +10,7 @@
 
 ## 🚀 About Me
 
-💥 I make microcontrollers dance, ☁️ IoT talk to the cloud, 🤖 AI do tricks, 📐 PCBs and 3D models come alive, ⚡ systems run smooth, and 💡 LEDs blink from another room—just because I can.
-
+I build the invisible stuff that makes hardware useful 🔧—if it needs a datasheet, I’m in 📄⚡
 
 
 
