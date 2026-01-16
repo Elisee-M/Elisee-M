@@ -37,16 +37,6 @@
 * 🛠️ **PCB & CAD Designs** – custom boards and 3D models.
 * 🖤 **Hobby Kernel Experiments** – tinkering with Linux internals.
 
----
-
-## 🌌 Contributions
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Elisee-M&theme=matrix" />
-</div>
-
----
-
 ## 🏆 Achievements
 
 <div align="center">
