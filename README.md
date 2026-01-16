@@ -37,14 +37,6 @@
 * 🛠️ **PCB & CAD Designs** – custom boards and 3D models.
 * 🖤 **Hobby Kernel Experiments** – tinkering with Linux internals.
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Elisee-M&theme=matrix&no-frame=true&margin-w=15" />
-</div>
-
----
-
 ## 📊 Visitor Counter
 
 <div align="center">
