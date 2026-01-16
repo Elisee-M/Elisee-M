@@ -40,11 +40,19 @@
 
 ## 📫 Contact
 
-* ✉️ Email: **[mugiranezaelisee0@gmail.com](mailto:mugiranezaelisee0@gmail.com)**
-* 🌐 Portfolio: **eliseemugiraneza.netlify.app**
-* 📸 Instagram: [@_elisee__0](https://www.instagram.com/_elisee__0/)
-* 💼 LinkedIn: [Elisee Mugiraneza](https://www.linkedin.com/in/elisee-mugiraneza-b66625362/)
-* 📱 WhatsApp: **+250798809812**
+## 📫 Contact Me
+
+<div align="center">
+  <a href="mailto:mugiranezaelisee0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://eliseemugiraneza.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_elisee__0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/elisee-mugiraneza-b66625362/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/250798809812" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://github.com/Elisee-M" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://facebook.com/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</div>
+
 
 ---
 
