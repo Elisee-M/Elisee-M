@@ -37,9 +37,6 @@
 * 🛠️ **PCB & CAD Designs** – custom boards and 3D models.
 * 🖤 **Hobby Kernel Experiments** – tinkering with Linux internals.
 
-
-## 📫 Contact
-
 ## 📫 Contact Me
 
 <div align="center">
@@ -50,8 +47,9 @@
   <a href="https://wa.me/250798809812" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://github.com/Elisee-M" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://facebook.com/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.facebook.com/m.elisee.1" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </div>
+
 
 
 ---
