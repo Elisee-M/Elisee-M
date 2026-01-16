@@ -22,15 +22,6 @@
 
 ---
 
-## 🎯 Current Projects
-
-* 🏫 **Teacher Attendance System** – automated, cloud-synced.
-* 🐞 **AI Pest Detector (ESP32-CAM)** – real-time edge AI.
-* 🌈 **WiFi RGB Mood Lamp** – precise, remote-controlled lighting.
-* 🌡️ **DHT11 Cloud Monitor** – efficient sensor data logging.
-* 🤖 **ML Raspberry Pi Projects** – integrating AI with sensors.
-* 🛠️ **PCB & CAD Designs** – custom boards and 3D models.
-* 🖤 **Hobby Kernel Experiments** – tinkering with Linux internals.
 
 ## 📫 Contact Me
 
