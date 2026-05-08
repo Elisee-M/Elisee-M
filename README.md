@@ -6,10 +6,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=5000&pause=300&color=00FF00&center=true&vCenter=true&width=900&lines=IoT+%7C+Embedded+Systems+%7C+Microcontrollers;Machine+Learning+%7C+Raspberry+Pi;PCB+Design+%7C+CAD+Design;Cloud+Computing+%7C+Dashboards;Hobby+Kernel+Development;Python+%7C+C%2B%2B+%7C+C+%7C+Assembly+%7C+JS+%7C+HTML+%7C+CSS;ESP32+%7C+ESP8266;Git+%7C+Github+%7C+Arduino+IDE;Linux+%7C+VScode+%7C+Firebase" />
 </div>
 
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elisee-M)
-
+--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elisee-M&show_icons=true)
 ## 🚀 About Me
 
 I build the invisible stuff that makes hardware useful 🔧—if it needs a datasheet, I’m in 📄⚡
