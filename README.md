@@ -7,7 +7,7 @@
 </div>
 
 --
-![Profile Views](https://img.shields.io/badge/Profile-Active-green)
+
 ## 🚀 About Me
 
 I build the invisible stuff that makes hardware useful 🔧—if it needs a datasheet, I’m in 📄⚡
