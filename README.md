@@ -8,6 +8,8 @@
 
 ---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elisee-M)
+
 ## 🚀 About Me
 
 I build the invisible stuff that makes hardware useful 🔧—if it needs a datasheet, I’m in 📄⚡
